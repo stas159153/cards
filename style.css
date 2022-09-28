@@ -1,0 +1,118 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Montserrat;
+}
+.card{
+   background-color: rgb(238, 89, 89);
+   width: 300px;
+    height:650px;
+}
+.text{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    color: white;
+}
+.deals{
+   font-size: 30px;
+    font-weight: 500;
+}
+.title-text{
+    color: white;
+    opacity: 0.5;
+    text-align: center;
+    padding: 30px 50px 10px 50px;
+}
+.title-h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.title{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.title-a{
+    background-color: rgb(24, 22, 22);
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(209, 158, 19);
+}
+.card-image{
+width: 250px;
+margin: auto;
+margin-top: 50%;
+transform: translateY(-50%);
+display: block;
+}
+.body{
+    height: 80vh;
+    background-image: url(images.jpg);
+    background-size: cover;
+    padding-top:10%;
+    display: flex;
+    justify-content: space-around;
+}
+.Y{
+color: white;
+margin: 4px;
+}
+.X{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+.conteiner{
+    width: 300px;
+    background-color: rgb(10, 173, 173);
+    height: 650px;
+}
+.content{
+    width: 300px;
+    background-color: white;
+    height: 650px;
+}
+.dealsY{
+    font-size: 30px;
+    font-weight: 500;
+    color: black;
+}
+.A {
+    color: black;
+}
+.E{
+    width: 180px;
+}
+.B{
+    font-size: 25px;
+    color: black;
+    font-weight: 700;
+}
+.v{
+    color: black;
+    margin: 40px 4px 10px 4px;
+}
+.Google{
+    font-size: 25px;
+}
+.Z{
+    margin: 40px 4px 0px 4px;
+    color: white;
+}
+.card-image-g{
+width: 200px;
+margin: auto;
+margin-top: 50%;
+transform: translateY(-50%);
+display: block;
+}
+.h1{
+font-size: 15px;
+}
+  
